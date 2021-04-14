@@ -1,6 +1,6 @@
 {
   "name": "express-caseize",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Express middleware build on top of caseize to manage json response's and request's params data case",
   "main": "dist/index.js",
   "scripts": {
