@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/abdalem/express-caseize#readme",
   "dependencies": {
-    "caseize": "^1.0.4",
+    "caseize": "^1.0.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
